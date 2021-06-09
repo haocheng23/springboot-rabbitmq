@@ -1,0 +1,11 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+/rabbitmq-consumer/target
+/rabbitmq-provider/target
+
+/rabbitmq-consumer/src/main/resources/rebel.xml
+/rabbitmq-provider/src/main/resources/rebel.xml
